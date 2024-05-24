@@ -126,3 +126,11 @@
     text-align: center;
     color: hsl(216, 12%, 54%);
 }
+
+
+@media(max-width:400px){
+    .card{
+        width: auto;
+        margin: 20px;
+    }
+}
